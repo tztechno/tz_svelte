@@ -1,8 +1,10 @@
 ---------------------------------------------
+```
 npx degit sveltejs/template my-svelte-app
 cd my-svelte-app
 npm install
 npm run dev
+```
 ---------------------------------------------
 
   Your application is ready~! 🚀
